@@ -1,4 +1,4 @@
-![MasterHead](https://www.ampexcel.com/wp-content/uploads/2021/03/app-development-gifxx-2-1.gif)
+![logo](https://www.ampexcel.com/wp-content/uploads/2021/03/app-development-gifxx-2-1.gif)
 <h1 align="center">Hi 👋, I'm Ashpreet Ahuja</h1>
 <h3 align="center">A passionate app developer from India</h3>
 
